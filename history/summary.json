@@ -4,7 +4,7 @@
     "url": "https://njaim2health.com/",
     "icon": "https://favicons.githubusercontent.com/njaim2health.com",
     "slug": "adv-int-med",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 409,
     "timeYear": 423,
     "dailyMinutesDown": {
+      "2022-01-21": 0,
       "2021-11-10": 18
     }
   }
